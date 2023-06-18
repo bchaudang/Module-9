@@ -13,6 +13,8 @@ The Data Analysis section, again as covered in class activities on how to extrac
 
 ====================================================
 
-There were a few issues that I ran into while performing this assignment, which were that once I had created the ERD using QuickDBD, identifying some of the datatypes on pgAdmin, had to be changed. I ran into issues while loading the csv files to the corresponding table because errors were appearing stating that the process had failed due to the syntax error of my datatypes being incorrect.
+There were a few issues that I ran into while performing this assignment, which were that once I had created the ERD using QuickDBD, identifying some of the datatypes on pgAdmin, had to be changed. 
+I has also created my tables first, than went back and referenced the correct foreign keyes to the other tables because I ran into issues loading the csv files because errors were appearing stating that the process had failed due to the syntax error of my datatypes being incorrect.
+I also ran into an issue with the second question for the data analysis with finding employees who had been hired during 1986. It had ran without any errors, however no information was appearing in the tables for output. I realized that the format in which I wrote my date had to be changed from D/M/Y.
 I utilized my weekly tutor session, aswell as askBCS, referred to class activities and also spoke to classmates as well. 
 Overall, this assignment was not as time consuming as previous challenges, and was quite interesting to do.
