@@ -11,11 +11,11 @@ SELECT * FROM titles;
 CREATE TABLE employees (
 	emp_no VARCHAR(30) PRIMARY KEY,
 	emp_title_id VARCHAR(30) NOT NULL,
-	birth_date DATE,
+	birth_date VARCHAR(30),
 	first_name VARCHAR(30) NOT NULL,
 	last_name VARCHAR(30) NOT NULL,
 	sex VARCHAR(30) NOT NULL,
-	hire_date DATE,
+	hire_date VARCHAR(30),
 	FOREIGN KEY (emp_title_id) REFERENCES titles(title_id)
 );
 
