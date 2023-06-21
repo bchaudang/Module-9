@@ -20,3 +20,6 @@ I also ran into an issue with the second question for the data analysis with fin
 
 I utilized my weekly tutor session, aswell as askBCS, referred to class activities and also spoke to classmates as well. 
 Overall, this assignment was not as time consuming as previous challenges, and was quite interesting to do.
+
+=====================================================
+RESUBMISSION: Due to a spelling error in my first reference line to dept_manager being mispelled as dept_managers has been fixed as advised by the Central Grader.
